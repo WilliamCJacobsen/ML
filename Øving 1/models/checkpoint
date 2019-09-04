@@ -1,0 +1,2 @@
+model_checkpoint_path: "day_length_weight.ckpt"
+all_model_checkpoint_paths: "day_length_weight.ckpt"
